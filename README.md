@@ -11,3 +11,12 @@ Her karakteri, seçdiğimiz anahtar değeri kadar geri kaydırıyoruz:
 Çözülen yazıyı ekranda yazdırıyoruz:
    - `printf("%s\n", metin);` çözülen yazıyı ekranda yazdırıyoruz,
    - çözülen yazı metni bundan sonra bitiyor.
+
+Ekran çıktısı bu şekilde olur.
+
+    Lcvjytb Cpgt!
+veya 
+
+ `Dosya açılamadı.Program ended with exit code: 1`
+
+çıktını verir.
